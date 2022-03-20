@@ -6,3 +6,4 @@ There are some usefull methods of solving different analyticas cases.
 
 v 1.0 There are my first steps, and theoretical/practical part of this course. Later I will upload completed projects results.
 v 2.0 Some lessons were added: probability_theory and statistics
+v 3.0 Lesson 4 lecture in Statistics topic was completed
