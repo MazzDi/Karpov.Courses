@@ -8,3 +8,4 @@ v 1.0 There are my first steps, and theoretical/practical part of this course. L
 v 2.0 Some lessons were added: probability_theory and statistics
 v 3.0 Lesson 4 lecture in Statistics topic was completed
 v 4.0 20.03.2022: Completed all Python lessons.
+v.5.0 23.03.2022: Completed statistics lesson 4 test and project
