@@ -1,0 +1,601 @@
+"id","ads","age_group","clicks"
+"S001","classic","18-27",40
+"S002","classic","18-27",22
+"S003","classic","18-27",41
+"S004","classic","18-27",35
+"S005","classic","18-27",39
+"S006","classic","18-27",35
+"S007","classic","18-27",57
+"S008","classic","18-27",39
+"S009","classic","18-27",44
+"S010","classic","18-27",43
+"S011","classic","18-27",45
+"S012","classic","18-27",39
+"S013","classic","18-27",32
+"S014","classic","18-27",31
+"S015","classic","18-27",22
+"S016","classic","18-27",35
+"S017","classic","18-27",38
+"S018","classic","18-27",54
+"S019","classic","18-27",48
+"S020","classic","18-27",44
+"S021","classic","18-27",35
+"S022","classic","18-27",27
+"S023","classic","18-27",30
+"S024","classic","18-27",21
+"S025","classic","18-27",43
+"S026","classic","18-27",39
+"S027","classic","18-27",38
+"S028","classic","18-27",51
+"S029","classic","18-27",40
+"S030","classic","18-27",67
+"S031","classic","18-27",35
+"S032","classic","18-27",44
+"S033","classic","18-27",54
+"S034","classic","18-27",33
+"S035","classic","18-27",49
+"S036","classic","18-27",36
+"S037","classic","18-27",48
+"S038","classic","18-27",54
+"S039","classic","18-27",26
+"S040","classic","18-27",45
+"S041","classic","18-27",36
+"S042","classic","18-27",62
+"S043","classic","18-27",39
+"S044","classic","18-27",44
+"S045","classic","18-27",52
+"S046","classic","18-27",20
+"S047","classic","18-27",46
+"S048","classic","18-27",42
+"S049","classic","18-27",28
+"S050","classic","18-27",20
+"S051","classic","18-27",30
+"S052","classic","18-27",46
+"S053","classic","18-27",56
+"S054","classic","18-27",39
+"S055","classic","18-27",38
+"S056","classic","18-27",39
+"S057","classic","18-27",39
+"S058","classic","18-27",40
+"S059","classic","18-27",47
+"S060","classic","18-27",51
+"S061","classic","18-27",44
+"S062","classic","18-27",29
+"S063","classic","18-27",46
+"S064","classic","18-27",28
+"S065","classic","18-27",47
+"S066","classic","18-27",34
+"S067","classic","18-27",46
+"S068","classic","18-27",30
+"S069","classic","18-27",36
+"S070","classic","18-27",55
+"S071","classic","18-27",41
+"S072","classic","18-27",61
+"S073","classic","18-27",23
+"S074","classic","18-27",39
+"S075","classic","18-27",53
+"S076","classic","18-27",53
+"S077","classic","18-27",19
+"S078","classic","18-27",55
+"S079","classic","18-27",42
+"S080","classic","18-27",40
+"S081","classic","18-27",45
+"S082","classic","18-27",40
+"S083","classic","18-27",38
+"S084","classic","18-27",49
+"S085","classic","18-27",37
+"S086","classic","18-27",48
+"S087","classic","18-27",49
+"S088","classic","18-27",36
+"S089","classic","18-27",28
+"S090","classic","18-27",26
+"S091","classic","18-27",56
+"S092","classic","18-27",30
+"S093","classic","18-27",33
+"S094","classic","18-27",44
+"S095","classic","18-27",36
+"S096","classic","18-27",35
+"S097","classic","18-27",40
+"S098","classic","18-27",32
+"S099","classic","18-27",35
+"S100","classic","18-27",29
+"S101","classic","28-45",21
+"S102","classic","28-45",33
+"S103","classic","28-45",32
+"S104","classic","28-45",28
+"S105","classic","28-45",26
+"S106","classic","28-45",32
+"S107","classic","28-45",28
+"S108","classic","28-45",11
+"S109","classic","28-45",37
+"S110","classic","28-45",25
+"S111","classic","28-45",32
+"S112","classic","28-45",24
+"S113","classic","28-45",39
+"S114","classic","28-45",34
+"S115","classic","28-45",19
+"S116","classic","28-45",22
+"S117","classic","28-45",24
+"S118","classic","28-45",33
+"S119","classic","28-45",28
+"S120","classic","28-45",31
+"S121","classic","28-45",24
+"S122","classic","28-45",26
+"S123","classic","28-45",34
+"S124","classic","28-45",29
+"S125","classic","28-45",37
+"S126","classic","28-45",25
+"S127","classic","28-45",39
+"S128","classic","28-45",32
+"S129","classic","28-45",30
+"S130","classic","28-45",44
+"S131","classic","28-45",28
+"S132","classic","28-45",33
+"S133","classic","28-45",42
+"S134","classic","28-45",30
+"S135","classic","28-45",30
+"S136","classic","28-45",36
+"S137","classic","28-45",33
+"S138","classic","28-45",21
+"S139","classic","28-45",19
+"S140","classic","28-45",23
+"S141","classic","28-45",41
+"S142","classic","28-45",43
+"S143","classic","28-45",34
+"S144","classic","28-45",39
+"S145","classic","28-45",12
+"S146","classic","28-45",22
+"S147","classic","28-45",47
+"S148","classic","28-45",31
+"S149","classic","28-45",26
+"S150","classic","28-45",20
+"S151","classic","28-45",28
+"S152","classic","28-45",28
+"S153","classic","28-45",15
+"S154","classic","28-45",38
+"S155","classic","28-45",30
+"S156","classic","28-45",32
+"S157","classic","28-45",28
+"S158","classic","28-45",35
+"S159","classic","28-45",28
+"S160","classic","28-45",37
+"S161","classic","28-45",19
+"S162","classic","28-45",36
+"S163","classic","28-45",33
+"S164","classic","28-45",40
+"S165","classic","28-45",42
+"S166","classic","28-45",27
+"S167","classic","28-45",35
+"S168","classic","28-45",27
+"S169","classic","28-45",34
+"S170","classic","28-45",32
+"S171","classic","28-45",37
+"S172","classic","28-45",38
+"S173","classic","28-45",29
+"S174","classic","28-45",33
+"S175","classic","28-45",24
+"S176","classic","28-45",25
+"S177","classic","28-45",37
+"S178","classic","28-45",23
+"S179","classic","28-45",29
+"S180","classic","28-45",27
+"S181","classic","28-45",16
+"S182","classic","28-45",27
+"S183","classic","28-45",36
+"S184","classic","28-45",29
+"S185","classic","28-45",36
+"S186","classic","28-45",30
+"S187","classic","28-45",23
+"S188","classic","28-45",27
+"S189","classic","28-45",27
+"S190","classic","28-45",39
+"S191","classic","28-45",37
+"S192","classic","28-45",34
+"S193","classic","28-45",24
+"S194","classic","28-45",20
+"S195","classic","28-45",23
+"S196","classic","28-45",28
+"S197","classic","28-45",31
+"S198","classic","28-45",30
+"S199","classic","28-45",37
+"S200","classic","28-45",32
+"S201","classic","46 and more",27
+"S202","classic","46 and more",19
+"S203","classic","46 and more",21
+"S204","classic","46 and more",19
+"S205","classic","46 and more",22
+"S206","classic","46 and more",19
+"S207","classic","46 and more",23
+"S208","classic","46 and more",26
+"S209","classic","46 and more",19
+"S210","classic","46 and more",30
+"S211","classic","46 and more",24
+"S212","classic","46 and more",22
+"S213","classic","46 and more",33
+"S214","classic","46 and more",18
+"S215","classic","46 and more",27
+"S216","classic","46 and more",21
+"S217","classic","46 and more",29
+"S218","classic","46 and more",32
+"S219","classic","46 and more",34
+"S220","classic","46 and more",27
+"S221","classic","46 and more",27
+"S222","classic","46 and more",22
+"S223","classic","46 and more",28
+"S224","classic","46 and more",26
+"S225","classic","46 and more",23
+"S226","classic","46 and more",28
+"S227","classic","46 and more",26
+"S228","classic","46 and more",20
+"S229","classic","46 and more",19
+"S230","classic","46 and more",14
+"S231","classic","46 and more",32
+"S232","classic","46 and more",32
+"S233","classic","46 and more",22
+"S234","classic","46 and more",21
+"S235","classic","46 and more",24
+"S236","classic","46 and more",31
+"S237","classic","46 and more",34
+"S238","classic","46 and more",23
+"S239","classic","46 and more",35
+"S240","classic","46 and more",33
+"S241","classic","46 and more",24
+"S242","classic","46 and more",24
+"S243","classic","46 and more",24
+"S244","classic","46 and more",29
+"S245","classic","46 and more",28
+"S246","classic","46 and more",26
+"S247","classic","46 and more",23
+"S248","classic","46 and more",31
+"S249","classic","46 and more",27
+"S250","classic","46 and more",14
+"S251","classic","46 and more",32
+"S252","classic","46 and more",20
+"S253","classic","46 and more",31
+"S254","classic","46 and more",24
+"S255","classic","46 and more",15
+"S256","classic","46 and more",25
+"S257","classic","46 and more",23
+"S258","classic","46 and more",22
+"S259","classic","46 and more",26
+"S260","classic","46 and more",21
+"S261","classic","46 and more",21
+"S262","classic","46 and more",33
+"S263","classic","46 and more",19
+"S264","classic","46 and more",31
+"S265","classic","46 and more",22
+"S266","classic","46 and more",18
+"S267","classic","46 and more",21
+"S268","classic","46 and more",28
+"S269","classic","46 and more",27
+"S270","classic","46 and more",23
+"S271","classic","46 and more",24
+"S272","classic","46 and more",15
+"S273","classic","46 and more",25
+"S274","classic","46 and more",23
+"S275","classic","46 and more",23
+"S276","classic","46 and more",22
+"S277","classic","46 and more",31
+"S278","classic","46 and more",28
+"S279","classic","46 and more",35
+"S280","classic","46 and more",22
+"S281","classic","46 and more",25
+"S282","classic","46 and more",26
+"S283","classic","46 and more",25
+"S284","classic","46 and more",23
+"S285","classic","46 and more",33
+"S286","classic","46 and more",24
+"S287","classic","46 and more",25
+"S288","classic","46 and more",34
+"S289","classic","46 and more",24
+"S290","classic","46 and more",22
+"S291","classic","46 and more",20
+"S292","classic","46 and more",14
+"S293","classic","46 and more",27
+"S294","classic","46 and more",31
+"S295","classic","46 and more",26
+"S296","classic","46 and more",29
+"S297","classic","46 and more",20
+"S298","classic","46 and more",29
+"S299","classic","46 and more",26
+"S300","classic","46 and more",29
+"S301","bold","18-27",120
+"S302","bold","18-27",85
+"S303","bold","18-27",106
+"S304","bold","18-27",106
+"S305","bold","18-27",131
+"S306","bold","18-27",144
+"S307","bold","18-27",98
+"S308","bold","18-27",108
+"S309","bold","18-27",104
+"S310","bold","18-27",101
+"S311","bold","18-27",107
+"S312","bold","18-27",114
+"S313","bold","18-27",153
+"S314","bold","18-27",91
+"S315","bold","18-27",100
+"S316","bold","18-27",120
+"S317","bold","18-27",97
+"S318","bold","18-27",117
+"S319","bold","18-27",98
+"S320","bold","18-27",62
+"S321","bold","18-27",96
+"S322","bold","18-27",74
+"S323","bold","18-27",89
+"S324","bold","18-27",100
+"S325","bold","18-27",111
+"S326","bold","18-27",128
+"S327","bold","18-27",87
+"S328","bold","18-27",105
+"S329","bold","18-27",123
+"S330","bold","18-27",122
+"S331","bold","18-27",93
+"S332","bold","18-27",135
+"S333","bold","18-27",135
+"S334","bold","18-27",123
+"S335","bold","18-27",153
+"S336","bold","18-27",111
+"S337","bold","18-27",107
+"S338","bold","18-27",128
+"S339","bold","18-27",116
+"S340","bold","18-27",115
+"S341","bold","18-27",125
+"S342","bold","18-27",84
+"S343","bold","18-27",103
+"S344","bold","18-27",113
+"S345","bold","18-27",104
+"S346","bold","18-27",144
+"S347","bold","18-27",109
+"S348","bold","18-27",85
+"S349","bold","18-27",82
+"S350","bold","18-27",118
+"S351","bold","18-27",87
+"S352","bold","18-27",96
+"S353","bold","18-27",146
+"S354","bold","18-27",74
+"S355","bold","18-27",110
+"S356","bold","18-27",86
+"S357","bold","18-27",87
+"S358","bold","18-27",150
+"S359","bold","18-27",128
+"S360","bold","18-27",107
+"S361","bold","18-27",73
+"S362","bold","18-27",142
+"S363","bold","18-27",97
+"S364","bold","18-27",123
+"S365","bold","18-27",124
+"S366","bold","18-27",100
+"S367","bold","18-27",154
+"S368","bold","18-27",102
+"S369","bold","18-27",57
+"S370","bold","18-27",120
+"S371","bold","18-27",127
+"S372","bold","18-27",108
+"S373","bold","18-27",136
+"S374","bold","18-27",102
+"S375","bold","18-27",116
+"S376","bold","18-27",124
+"S377","bold","18-27",105
+"S378","bold","18-27",120
+"S379","bold","18-27",130
+"S380","bold","18-27",129
+"S381","bold","18-27",125
+"S382","bold","18-27",128
+"S383","bold","18-27",136
+"S384","bold","18-27",115
+"S385","bold","18-27",105
+"S386","bold","18-27",111
+"S387","bold","18-27",94
+"S388","bold","18-27",114
+"S389","bold","18-27",88
+"S390","bold","18-27",107
+"S391","bold","18-27",116
+"S392","bold","18-27",110
+"S393","bold","18-27",109
+"S394","bold","18-27",84
+"S395","bold","18-27",96
+"S396","bold","18-27",92
+"S397","bold","18-27",114
+"S398","bold","18-27",98
+"S399","bold","18-27",84
+"S400","bold","18-27",135
+"S401","bold","28-45",29
+"S402","bold","28-45",27
+"S403","bold","28-45",28
+"S404","bold","28-45",22
+"S405","bold","28-45",25
+"S406","bold","28-45",22
+"S407","bold","28-45",26
+"S408","bold","28-45",24
+"S409","bold","28-45",23
+"S410","bold","28-45",27
+"S411","bold","28-45",20
+"S412","bold","28-45",26
+"S413","bold","28-45",34
+"S414","bold","28-45",22
+"S415","bold","28-45",29
+"S416","bold","28-45",16
+"S417","bold","28-45",30
+"S418","bold","28-45",31
+"S419","bold","28-45",21
+"S420","bold","28-45",29
+"S421","bold","28-45",21
+"S422","bold","28-45",22
+"S423","bold","28-45",28
+"S424","bold","28-45",20
+"S425","bold","28-45",23
+"S426","bold","28-45",30
+"S427","bold","28-45",19
+"S428","bold","28-45",23
+"S429","bold","28-45",22
+"S430","bold","28-45",22
+"S431","bold","28-45",17
+"S432","bold","28-45",20
+"S433","bold","28-45",19
+"S434","bold","28-45",20
+"S435","bold","28-45",30
+"S436","bold","28-45",21
+"S437","bold","28-45",21
+"S438","bold","28-45",27
+"S439","bold","28-45",32
+"S440","bold","28-45",28
+"S441","bold","28-45",24
+"S442","bold","28-45",24
+"S443","bold","28-45",26
+"S444","bold","28-45",28
+"S445","bold","28-45",21
+"S446","bold","28-45",19
+"S447","bold","28-45",20
+"S448","bold","28-45",31
+"S449","bold","28-45",34
+"S450","bold","28-45",26
+"S451","bold","28-45",30
+"S452","bold","28-45",29
+"S453","bold","28-45",28
+"S454","bold","28-45",17
+"S455","bold","28-45",20
+"S456","bold","28-45",21
+"S457","bold","28-45",30
+"S458","bold","28-45",22
+"S459","bold","28-45",31
+"S460","bold","28-45",14
+"S461","bold","28-45",39
+"S462","bold","28-45",23
+"S463","bold","28-45",27
+"S464","bold","28-45",20
+"S465","bold","28-45",26
+"S466","bold","28-45",21
+"S467","bold","28-45",29
+"S468","bold","28-45",31
+"S469","bold","28-45",25
+"S470","bold","28-45",29
+"S471","bold","28-45",27
+"S472","bold","28-45",32
+"S473","bold","28-45",30
+"S474","bold","28-45",16
+"S475","bold","28-45",26
+"S476","bold","28-45",31
+"S477","bold","28-45",26
+"S478","bold","28-45",29
+"S479","bold","28-45",25
+"S480","bold","28-45",27
+"S481","bold","28-45",28
+"S482","bold","28-45",13
+"S483","bold","28-45",22
+"S484","bold","28-45",24
+"S485","bold","28-45",35
+"S486","bold","28-45",25
+"S487","bold","28-45",24
+"S488","bold","28-45",17
+"S489","bold","28-45",31
+"S490","bold","28-45",15
+"S491","bold","28-45",29
+"S492","bold","28-45",31
+"S493","bold","28-45",27
+"S494","bold","28-45",20
+"S495","bold","28-45",24
+"S496","bold","28-45",26
+"S497","bold","28-45",23
+"S498","bold","28-45",21
+"S499","bold","28-45",27
+"S500","bold","28-45",27
+"S501","bold","46 and more",7
+"S502","bold","46 and more",5
+"S503","bold","46 and more",6
+"S504","bold","46 and more",4
+"S505","bold","46 and more",4
+"S506","bold","46 and more",7
+"S507","bold","46 and more",5
+"S508","bold","46 and more",5
+"S509","bold","46 and more",5
+"S510","bold","46 and more",4
+"S511","bold","46 and more",4
+"S512","bold","46 and more",5
+"S513","bold","46 and more",6
+"S514","bold","46 and more",5
+"S515","bold","46 and more",5
+"S516","bold","46 and more",6
+"S517","bold","46 and more",4
+"S518","bold","46 and more",7
+"S519","bold","46 and more",5
+"S520","bold","46 and more",4
+"S521","bold","46 and more",4
+"S522","bold","46 and more",3
+"S523","bold","46 and more",3
+"S524","bold","46 and more",5
+"S525","bold","46 and more",6
+"S526","bold","46 and more",5
+"S527","bold","46 and more",7
+"S528","bold","46 and more",4
+"S529","bold","46 and more",6
+"S530","bold","46 and more",4
+"S531","bold","46 and more",5
+"S532","bold","46 and more",6
+"S533","bold","46 and more",7
+"S534","bold","46 and more",6
+"S535","bold","46 and more",6
+"S536","bold","46 and more",5
+"S537","bold","46 and more",6
+"S538","bold","46 and more",5
+"S539","bold","46 and more",5
+"S540","bold","46 and more",6
+"S541","bold","46 and more",5
+"S542","bold","46 and more",5
+"S543","bold","46 and more",3
+"S544","bold","46 and more",4
+"S545","bold","46 and more",5
+"S546","bold","46 and more",7
+"S547","bold","46 and more",4
+"S548","bold","46 and more",5
+"S549","bold","46 and more",4
+"S550","bold","46 and more",5
+"S551","bold","46 and more",4
+"S552","bold","46 and more",5
+"S553","bold","46 and more",5
+"S554","bold","46 and more",4
+"S555","bold","46 and more",6
+"S556","bold","46 and more",6
+"S557","bold","46 and more",3
+"S558","bold","46 and more",5
+"S559","bold","46 and more",4
+"S560","bold","46 and more",6
+"S561","bold","46 and more",6
+"S562","bold","46 and more",4
+"S563","bold","46 and more",5
+"S564","bold","46 and more",5
+"S565","bold","46 and more",7
+"S566","bold","46 and more",6
+"S567","bold","46 and more",4
+"S568","bold","46 and more",5
+"S569","bold","46 and more",4
+"S570","bold","46 and more",6
+"S571","bold","46 and more",5
+"S572","bold","46 and more",4
+"S573","bold","46 and more",5
+"S574","bold","46 and more",5
+"S575","bold","46 and more",6
+"S576","bold","46 and more",6
+"S577","bold","46 and more",5
+"S578","bold","46 and more",3
+"S579","bold","46 and more",6
+"S580","bold","46 and more",5
+"S581","bold","46 and more",4
+"S582","bold","46 and more",5
+"S583","bold","46 and more",5
+"S584","bold","46 and more",6
+"S585","bold","46 and more",4
+"S586","bold","46 and more",5
+"S587","bold","46 and more",6
+"S588","bold","46 and more",5
+"S589","bold","46 and more",5
+"S590","bold","46 and more",7
+"S591","bold","46 and more",7
+"S592","bold","46 and more",5
+"S593","bold","46 and more",3
+"S594","bold","46 and more",3
+"S595","bold","46 and more",5
+"S596","bold","46 and more",3
+"S597","bold","46 and more",5
+"S598","bold","46 and more",6
+"S599","bold","46 and more",5
+"S600","bold","46 and more",5
