@@ -1,9 +1,17 @@
 # First Project
 
-https://git.lab.karpov.courses/lab/first_project/-/merge_requests/new?merge_request%5Bsource_branch%5D=nikita_korotkov_17.01_n-korotkov%2Fvariant1
+Результаты:
+В ходе проекта я проанализировал данные о заказах, покупателях и SKU небольшого e-com игрока, провел Когортный и RFM-анализы и выявил следующие инсайты:
+1) Лучший результат по retention на 3-ий месяц (0,43%) относится к когорте, совершившей первую покупку в сентябре.
+2) У компании очень мало Постоянных клиентов (1,23%) и Чемпионов (0,64%), в то время, как есть огромное количество пользователей, которые совершили одну покупку и больше ничего не покупали (39% - самый большой сегмент).
 
-https://git.lab.karpov.courses/lab/first_project/-/merge_requests/178
+Results:
+During the project, I analyzed data on orders, customers and SKUs of a small e-com player, conducted Cohort and RFM analyses and identified the following insights:
+1) The best retention result for the 3rd month (0.43%) refers to the cohort that made the first purchase in September.
+2) The company has very few Regular customers (1.23%) and Champions (0.64%), while there are a huge number of users who made one purchase and did not buy anything else (39% is the largest segment).
 
+
+Обратная связь / Feedbak:
 
 Татьяна Никитина
 Татьяна Никитина @t-nikitina · 5 days ago
