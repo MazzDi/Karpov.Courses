@@ -12,4 +12,4 @@ Project results:
 
 As a result: I recommended rolling out a new payment mechanics for all users.
 2) Also, during the project, I implemented a complex SQL query using the Pandahouse library.
-3) A function was written that automates the A/B test process with the addition of new users to groups (the test result has not changed, the ARPPU metric is also stat. has grown significantly).
+3) A function was written that automates the A/B test process with the addition of new users to groups (the test result has not changed, the ARPPU metric is also has stat. grown significantly).
